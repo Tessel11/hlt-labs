@@ -45,7 +45,7 @@ def talk_to_me():
             eliza_response = analyze(human_input)
             turn = {'utterance':eliza_response, 'speaker': system_name, 'turn_id':turn_id}
             conversation.append(turn)            
-            print(eliza_response)
+            print(turn_id, eliza_response)
     return
 
 def save_to_json(filename = "chat_with_eliza.json"):

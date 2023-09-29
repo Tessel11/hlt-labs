@@ -1,0 +1,626 @@
+[
+    {
+        "utterance": "Hello Sarah. How are you feeling today?",
+        "speaker": "Eliza",
+        "turn_id": 0,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Sad",
+        "speaker": "Sarah",
+        "turn_id": 1,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "I see.  And what does that tell you?",
+        "speaker": "Eliza",
+        "turn_id": 1,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I do not know, that there is something wrong with me?",
+        "speaker": "Sarah",
+        "turn_id": 2,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "Why do you ask that?",
+        "speaker": "Eliza",
+        "turn_id": 2,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Because my mother thinks there is something wrong with me",
+        "speaker": "Sarah",
+        "turn_id": 3,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "If your mother thinks there is something wrong with you, what else must be true?",
+        "speaker": "Eliza",
+        "turn_id": 3,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "That I am mentally sick",
+        "speaker": "Sarah",
+        "turn_id": 4,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Can you elaborate on that?",
+        "speaker": "Eliza",
+        "turn_id": 4,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "If I am feeling sad all the time, and I do not know why, I should have an mental illness",
+        "speaker": "Sarah",
+        "turn_id": 5,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "How does that make you feel?",
+        "speaker": "Eliza",
+        "turn_id": 5,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Scared",
+        "speaker": "Sarah",
+        "turn_id": 6,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "How do you feel when you say that?",
+        "speaker": "Eliza",
+        "turn_id": 6,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "That it is the truth",
+        "speaker": "Sarah",
+        "turn_id": 7,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "that it is the truth.",
+        "speaker": "Eliza",
+        "turn_id": 7,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Maybe I should accept that and not be scared",
+        "speaker": "Sarah",
+        "turn_id": 8,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Please tell me more.",
+        "speaker": "Eliza",
+        "turn_id": 8,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I am feeling scared because if I have a mental illness I can not control my thaughts anymore",
+        "speaker": "Sarah",
+        "turn_id": 9,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "How do you feel about being feeling scared because if you have a mental illness you can not control your thaughts anymore?",
+        "speaker": "Eliza",
+        "turn_id": 9,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "It gives me th eshivers",
+        "speaker": "Sarah",
+        "turn_id": 10,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "it gives you th eshivers.",
+        "speaker": "Eliza",
+        "turn_id": 10,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes",
+        "speaker": "Sarah",
+        "turn_id": 11,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You seem quite sure.",
+        "speaker": "Eliza",
+        "turn_id": 11,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I am feeling the shivers now",
+        "speaker": "Sarah",
+        "turn_id": 12,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "How do you feel about being feeling the shivers now?",
+        "speaker": "Eliza",
+        "turn_id": 12,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I dont kniw",
+        "speaker": "Sarah",
+        "turn_id": 13,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Why don't you kniw?",
+        "speaker": "Eliza",
+        "turn_id": 13,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Because it is a weird question, what do you want me to say?",
+        "speaker": "Sarah",
+        "turn_id": 14,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "What other reasons come to mind?",
+        "speaker": "Eliza",
+        "turn_id": 14,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I am also scared of how people will look at me",
+        "speaker": "Sarah",
+        "turn_id": 15,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "How do you feel about being also scared of how people will look at you?",
+        "speaker": "Eliza",
+        "turn_id": 15,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Also scared",
+        "speaker": "Sarah",
+        "turn_id": 16,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "Please tell me more.",
+        "speaker": "Eliza",
+        "turn_id": 16,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "It is just scary ",
+        "speaker": "Sarah",
+        "turn_id": 17,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "If I told you that it probably isn't just scary, what would you feel?",
+        "speaker": "Eliza",
+        "turn_id": 17,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Confused",
+        "speaker": "Sarah",
+        "turn_id": 18,
+        "Gold": "surprise"
+    },
+    {
+        "utterance": "I see.  And what does that tell you?",
+        "speaker": "Eliza",
+        "turn_id": 18,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I have not looked at it a different way",
+        "speaker": "Sarah",
+        "turn_id": 19,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Why do you tell me that you've not looked at it a different way?",
+        "speaker": "Eliza",
+        "turn_id": 19,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Because you are saying it is not scary, but it is to me",
+        "speaker": "Sarah",
+        "turn_id": 20,
+        "Gold": "fear"
+    },
+    {
+        "utterance": "What other reasons come to mind?",
+        "speaker": "Eliza",
+        "turn_id": 20,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I do not like this",
+        "speaker": "Sarah",
+        "turn_id": 21,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "Can you elaborate on that?",
+        "speaker": "Eliza",
+        "turn_id": 21,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You are making me feel stupid",
+        "speaker": "Sarah",
+        "turn_id": 22,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "Perhaps you would like me to be making you feel stupid.",
+        "speaker": "Eliza",
+        "turn_id": 22,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "No I dont",
+        "speaker": "Sarah",
+        "turn_id": 23,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "Why do you say that no you dont?",
+        "speaker": "Eliza",
+        "turn_id": 23,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I hate feeling stupid",
+        "speaker": "Sarah",
+        "turn_id": 24,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "How does that make you feel?",
+        "speaker": "Eliza",
+        "turn_id": 24,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Angry",
+        "speaker": "Sarah",
+        "turn_id": 25,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "I see.",
+        "speaker": "Eliza",
+        "turn_id": 25,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "So please do not make me angry",
+        "speaker": "Sarah",
+        "turn_id": 26,
+        "Gold": "disgust"
+    },
+    {
+        "utterance": "Why do you say that so please do not make you angry?",
+        "speaker": "Eliza",
+        "turn_id": 26,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I do not like feeling angry",
+        "speaker": "Sarah",
+        "turn_id": 27,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "How do you feel when you say that?",
+        "speaker": "Eliza",
+        "turn_id": 27,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I dont know",
+        "speaker": "Sarah",
+        "turn_id": 28,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Why don't you know?",
+        "speaker": "Eliza",
+        "turn_id": 28,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Because it is not a feeling",
+        "speaker": "Sarah",
+        "turn_id": 29,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "What other reasons come to mind?",
+        "speaker": "Eliza",
+        "turn_id": 29,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "About what?",
+        "speaker": "Sarah",
+        "turn_id": 30,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Why don't you tell me?",
+        "speaker": "Eliza",
+        "turn_id": 30,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You asked the question",
+        "speaker": "Sarah",
+        "turn_id": 31,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Why do you care whether I asked the question?",
+        "speaker": "Eliza",
+        "turn_id": 31,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Because that means you know what you mean, I do not",
+        "speaker": "Sarah",
+        "turn_id": 32,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "What other reasons come to mind?",
+        "speaker": "Eliza",
+        "turn_id": 32,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I think you are not helping",
+        "speaker": "Sarah",
+        "turn_id": 33,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "Do you really think so?",
+        "speaker": "Eliza",
+        "turn_id": 33,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes",
+        "speaker": "Sarah",
+        "turn_id": 34,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You seem quite sure.",
+        "speaker": "Eliza",
+        "turn_id": 34,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes",
+        "speaker": "Sarah",
+        "turn_id": 35,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You seem quite sure.",
+        "speaker": "Eliza",
+        "turn_id": 35,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes",
+        "speaker": "Sarah",
+        "turn_id": 36,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "OK, but can you elaborate a bit?",
+        "speaker": "Eliza",
+        "turn_id": 36,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "No",
+        "speaker": "Sarah",
+        "turn_id": 37,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Can you elaborate on that?",
+        "speaker": "Eliza",
+        "turn_id": 37,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "No",
+        "speaker": "Sarah",
+        "turn_id": 38,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I see.",
+        "speaker": "Eliza",
+        "turn_id": 38,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Ok, I feel like we are going nowhere",
+        "speaker": "Sarah",
+        "turn_id": 39,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "How does that make you feel?",
+        "speaker": "Eliza",
+        "turn_id": 39,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Sad, I want some guidance",
+        "speaker": "Sarah",
+        "turn_id": 40,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "sad, you want some guidance.",
+        "speaker": "Eliza",
+        "turn_id": 40,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes, and you are not giving me any",
+        "speaker": "Sarah",
+        "turn_id": 41,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "You seem quite sure.",
+        "speaker": "Eliza",
+        "turn_id": 41,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I am",
+        "speaker": "Sarah",
+        "turn_id": 42,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I see.  And what does that tell you?",
+        "speaker": "Eliza",
+        "turn_id": 42,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "That you suck",
+        "speaker": "Sarah",
+        "turn_id": 43,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "How does that make you feel?",
+        "speaker": "Eliza",
+        "turn_id": 43,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Angry",
+        "speaker": "Sarah",
+        "turn_id": 44,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "How do you feel when you say that?",
+        "speaker": "Eliza",
+        "turn_id": 44,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Angry",
+        "speaker": "Sarah",
+        "turn_id": 45,
+        "Gold": "anger"
+    },
+    {
+        "utterance": "Please tell me more.",
+        "speaker": "Eliza",
+        "turn_id": 45,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I wanted you to help me, but maybe you can't",
+        "speaker": "Sarah",
+        "turn_id": 46,
+        "Gold": "disgust"
+    },
+    {
+        "utterance": "Let's change focus a bit... Tell me about your family.",
+        "speaker": "Eliza",
+        "turn_id": 46,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "My mother is depressed and my father left us when I was young",
+        "speaker": "Sarah",
+        "turn_id": 47,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "Why do you say that your mother is depressed and your father left us when you were young?",
+        "speaker": "Eliza",
+        "turn_id": 47,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Bacause that is what happened",
+        "speaker": "Sarah",
+        "turn_id": 48,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I see.",
+        "speaker": "Eliza",
+        "turn_id": 48,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "My mother became depressed when father left",
+        "speaker": "Sarah",
+        "turn_id": 49,
+        "Gold": "sadness"
+    },
+    {
+        "utterance": "I see, your mother became depressed when father left.",
+        "speaker": "Eliza",
+        "turn_id": 49,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Yes, so that is a while now",
+        "speaker": "Sarah",
+        "turn_id": 50,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "You seem quite sure.",
+        "speaker": "Eliza",
+        "turn_id": 50,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "I am",
+        "speaker": "Sarah",
+        "turn_id": 51,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "Very interesting.",
+        "speaker": "Eliza",
+        "turn_id": 51,
+        "Gold": "neutral"
+    },
+    {
+        "utterance": "bye",
+        "speaker": "Sarah",
+        "turn_id": 52,
+        "Gold": "neutral"
+    }
+]
