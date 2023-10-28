@@ -36,7 +36,7 @@ def plot_labels_with_counts(labels, values):
     for v in values:
         total+=v
     print('Total of values', total)
-    ax = sns.barplot(x=labels, y=values)
+    ax = sns.barplot(x=labels, y=values, hue=labels)
     # Add values above bars
     for i, v in enumerate(values):
         ax.text(i, v + 0.2, str(int((v/total*100)))+'%', ha='center')
